@@ -1,0 +1,55 @@
+{
+  "hero": {
+    "slogan": "Minik Adımlar Büyük Mutluluklar Getirir 🤩",
+    "description": "0-16 Yaş Arası Çocuklar için Özenle Hazırlanmış Kategori Seçenekleri. Modern Tasarım, Premium Kalite ve Konforlu Kıyafetler.",
+    "stats": {
+      "families": "500+",
+      "organic": "100%"
+    }
+  },
+  "categories": [
+    {
+      "id": "kiz",
+      "title": "Kız Çocuk Giyim",
+      "description": "Elbiseler, Etekler, Bluzlar ve Daha Fazlası",
+      "color": "pink",
+      "icon": "sparkles"
+    },
+    {
+      "id": "erkek",
+      "title": "Erkek Çocuk Giyim",
+      "description": "Tişörtler, Pantolonlar, Gömlekler",
+      "color": "blue",
+      "icon": "shirt"
+    },
+    {
+      "id": "pijama",
+      "title": "Pijama & Gecelik",
+      "description": "Rahat Uyku için Özel Tasarımlar",
+      "color": "green",
+      "icon": "moon"
+    },
+    {
+      "id": "bebek",
+      "title": "Bebek Giyim",
+      "description": "0-2 Yaş Bebek Kıyafetleri",
+      "color": "orange",
+      "icon": "baby"
+    }
+  ],
+  "about": {
+    "title": "Hakkımızda",
+    "description": "Joy Kids, 0-16 yaş arası çocuklara özel yüksek kaliteli ve konforlu giyim ürünleri sunmak üzere kurulmuştur. Markamız, çocukların gelişim dönemlerinde kendilerini özgürce ifade edebilecekleri tarzlara odaklanır.",
+    "story": "Her ürünümüz bir düşünceyle başlar: \"Bu kıyafet bir çocuğu nasıl daha mutlu eder?\" Mersin'deki mağazamızla çıktığımız bu yolda, kaliteli kumaşlar, özenle tasarımlar ve müşteri memnuniyeti en büyük önceliğimizdir."
+  },
+  "contact": {
+    "phone": "0 (555) 140 3314",
+    "email": "iletisimjoykids@gmail.com",
+    "address": "Tozkoparan Mah. 207. Cad. 145/A Toroslar Mersin"
+  },
+  "footer": {
+    "copyright": "© 2024 Joy Kids. Tüm hakları saklıdır.",
+    "notice": "Yakında E-ticaret Seçeneği Aktif Olacak!"
+  },
+  "lastUpdated": "2024-01-01T00:00:00.000Z"
+}
