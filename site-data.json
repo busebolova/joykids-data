@@ -17,8 +17,8 @@
     },
     {
       "id": "erkek",
-      "title": "Erkek Çocuk Giyim",
-      "description": "Tişörtler, Pantolonlar, Gömlekler",
+      "title": "0-16 Yaş Erkek Çocuk Giyim",
+      "description": "Tişörtler, Pantolonlar, Gömlekler, Takımlar ve Daha Fazlası",
       "color": "blue",
       "icon": "shirt"
     },
@@ -56,5 +56,5 @@
     "copyright": "© 2024 Joy Kids. Tüm hakları saklıdır.",
     "notice": "Yakında E-ticaret Seçeneği Aktif Olacak!"
   },
-  "lastUpdated": "2025-06-23T09:03:42.087Z"
+  "lastUpdated": "2025-06-23T09:03:45.583Z"
 }
