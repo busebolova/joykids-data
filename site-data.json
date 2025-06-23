@@ -40,7 +40,12 @@
   "about": {
     "title": "Hakkımızda",
     "description": "Joy Kids, 0-16 yaş arası çocuklara özel yüksek kaliteli ve konforlu giyim ürünleri sunmak üzere kurulmuştur. Markamız, çocukların gelişim dönemlerinde kendilerini özgürce ifade edebilecekleri tarzlara odaklanır.",
-    "story": "Her ürünümüz bir düşünceyle başlar: \"Bu kıyafet bir çocuğu nasıl daha mutlu eder?\" Mersin'deki mağazamızla çıktığımız bu yolda, kaliteli kumaşlar, özenle tasarımlar ve müşteri memnuniyeti en büyük önceliğimizdir."
+    "story": "Her ürünümüz bir düşünceyle başlar: \"Bu kıyafet bir çocuğu nasıl daha mutlu eder?\" Mersin'deki mağazamızla çıktığımız bu yolda, kaliteli kumaşlar, özenle tasarımlar ve müşteri memnuniyeti en büyük önceliğimizdir.",
+    "images": {
+      "image1": "/images/kiz-cocuk-yeni.png",
+      "image2": "/images/erkek-cocuk-moda-1.png",
+      "image3": "/images/cocuk-pijama-yeni.png"
+    }
   },
   "contact": {
     "phone": "0 (555) 140 3314",
@@ -51,5 +56,5 @@
     "copyright": "© 2024 Joy Kids. Tüm hakları saklıdır.",
     "notice": "Yakında E-ticaret Seçeneği Aktif Olacak!"
   },
-  "lastUpdated": "2025-06-23T08:54:23.945Z"
+  "lastUpdated": "2025-06-23T08:55:47.390Z"
 }
