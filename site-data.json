@@ -35,6 +35,13 @@
       "description": "0-2 Yaş Bebek Kıyafetleri",
       "color": "orange",
       "icon": "baby"
+    },
+    {
+      "title": "deneme",
+      "description": "",
+      "color": "pink",
+      "icon": "sparkles",
+      "id": "deneme-1750656737099"
     }
   ],
   "about": {
@@ -51,5 +58,5 @@
     "copyright": "© 2024 Joy Kids. Tüm hakları saklıdır.",
     "notice": "Yakında E-ticaret Seçeneği Aktif Olacak!"
   },
-  "lastUpdated": "2025-06-23T05:28:55.327Z"
+  "lastUpdated": "2025-06-23T05:32:17.378Z"
 }
